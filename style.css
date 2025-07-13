@@ -1,0 +1,35 @@
+div{
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow: 4px 4px 13px  rgb(2 24 2 / 89%);
+    
+}
+div a{
+    background-color:#00ac49;
+    border-radius: 10px;    
+    border: 10px solid #00ac49 ;
+    position: absolute;
+    bottom: 0px;    
+    padding: 2px;
+    text-decoration: none;
+    color: aliceblue;    
+}
+button{
+    background-color: #00ac49;
+    border: 10px solid #00ac49 ;
+    border-radius: 50%;
+    position: absolute;
+    bottom:0px;
+    right: 20px;
+    cursor: pointer;
+    color: aliceblue;
+}
+html, body {
+  height: 100%;
+  margin: 0;
+  background-image: url("https://media.geeksforgeeks.org/wp-content/uploads/20240115111239/best-cources-on.jpg");  
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+}
